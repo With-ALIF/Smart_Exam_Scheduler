@@ -1,0 +1,44 @@
+[
+  {
+    "code": "EEE 1211",
+    "title": "Introduction to Basic Electronics",
+    "date": "2025-10-30",
+    "timeRange": "01:45 pm - 04:45 pm",
+    "iso": "2025-10-30T13:45:00"
+  },
+  {
+    "code": "CHE 1222",
+    "title": "Physical and Inorganic Chemistry",
+    "date": "2025-11-02",
+    "timeRange": "01:45 pm - 04:45 pm",
+    "iso": "2025-11-02T13:45:00"
+  },
+  {
+    "code": "MAT 1221",
+    "title": "Differential and Integral Calculus",
+    "date": "2025-11-06",
+    "timeRange": "01:45 pm - 04:45 pm",
+    "iso": "2025-11-06T13:45:00"
+  },
+  {
+    "code": "HUM 1224",
+    "title": "Impact of Computer on Society",
+    "date": "2025-11-09",
+    "timeRange": "01:45 pm - 04:45 pm",
+    "iso": "2025-11-09T13:45:00"
+  },
+  {
+    "code": "CSE 1201",
+    "title": "Structured Programming Language II",
+    "date": "2025-11-13",
+    "timeRange": "01:45 pm - 04:45 pm",
+    "iso": "2025-11-13T13:45:00"
+  },
+  {
+    "code": "STAT 1223",
+    "title": "Basic Statistics and Probability",
+    "date": "2025-11-16",
+    "timeRange": "01:45 pm - 04:45 pm",
+    "iso": "2025-11-16T13:45:00"
+  }
+]
