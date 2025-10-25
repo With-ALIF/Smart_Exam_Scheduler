@@ -13,7 +13,7 @@ Experience the project live here:
 
 ## 📸 Screenshots
 
-![Smart Exam Scheduler](picture.jpg)
+![Smart Exam Scheduler](image.jpg)
 
  
 ---
